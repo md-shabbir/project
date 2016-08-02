@@ -9,3 +9,4 @@ b = int(raw_input('Enter second no: '))
 
 print sum(a, b)
 
+#end
